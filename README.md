@@ -100,4 +100,22 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=salman-como&show_icons=true&theme=dark&hide_border=true" height="165" />
-  <img
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman-como&layout=compact&theme=dark&hide_border=true" height="165" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=salman-como&theme=dark&hide_border=true" />
+</p>
+
+---
+
+### 🔨 Notable Work
+
+- **Shopify Loyalty Platform** — Multi-tenant webhook orchestration, fulfillment event reliability, idempotent recovery at enterprise scale (Como / Global Payments)
+- **DruID/OIDC ↔ Firebase Auth** — Manual OIDC flow for Mutua Madrid Open loyalty program; server-side token exchange in Next.js API routes with C# JWT verification
+- **MizanTrack** — Offline-first PWA · Zakat calculation engine · Firestore sync · Hysab Kytab replacement
+
+---
+
+<p align="center">
+  <i>"Ship with intent. Design for failure. Own the outcome."</i>
+</p>
