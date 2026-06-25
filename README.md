@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🏢 **Senior Software Engineer** at [Comosense (Como / Global Payments)](https://www.como.com) — building loyalty & omni-channel platform integrations with Shopify across multi-merchant enterprise stacks
+- 🏢 **Senior Software Engineer** at [Comosense (Como / Global Payments)](https://www.comosense.com) — building loyalty & omni-channel platform integrations with Shopify across multi-merchant enterprise stacks
 - 🔭 Currently deep in: Shopify webhook reliability, DruID/OIDC identity integrations, and MongoDB Atlas operations
 - 🌍 Based in **Sharjah, UAE**
 - 🛠️ 11+ years across **.NET/C#, React, TypeScript, Node.js, Next.js**
